@@ -1,0 +1,17 @@
+nm: na nô mét
+gb: ri ra bai
+hz: hát dét
+%: phần trăm
+g: gờ
+k: ca
+km: ci lô mét
+kg: ci lô gam
+nits: nít
+mah: mi li am be giờ
+tb/s: ti bi trên ét
+mb/s: mê trên ét
+tb: tê ra bai
+fps: ép bê ét
+mm: mi li mét
+mb: mờ bê
+x: ích
